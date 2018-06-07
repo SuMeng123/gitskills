@@ -1,3 +1,3 @@
 # gitskills
-createing a new branch is quicki and simple +1
+createing a new branch is quicki and simple +2
 
